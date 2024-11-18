@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Medical student  
+- 🔭 I’m currently a Medical Doctor  
 - 🌱 I have noob intrests in Android, but mainly GSI development
 - 💬 Ask me but m a big nub
 - 📫 How to reach me: [Telegram](https://t.me/nnippon)
